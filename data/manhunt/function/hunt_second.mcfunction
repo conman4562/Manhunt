@@ -1,4 +1,4 @@
-execute if score $Temp manhunt_enabled matches 0 run return fail
+execute if score $Temp manhunt_enabled matches 0 run return run function manhunt:wait_second
 execute as @e[team=runners] unless score @s manhunt_rid matches -2147483647.. run execute store result score @s manhunt_rid run data get entity @s UUID[0]
 
 #Game over detection (runners)
