@@ -1,4 +1,4 @@
-## Manhunt datapack for 1.21.6 - 1.21.11\
+## Manhunt datapack for 1.21.6 - 1.21.11
 Mimicking dreams manhunts as closely as possible
 
 To install:\
