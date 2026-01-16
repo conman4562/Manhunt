@@ -1,5 +1,5 @@
 Manhunt datapack for 1.21.6 - 1.21.11
-Mimicing dreams manhunts as closely as possible
+Mimicking dreams manhunts as closely as possible
 
 To install:
 Download the zip, extract it, and put it in your world's datapack folder
