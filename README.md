@@ -5,7 +5,7 @@ To install:\
 Download the zip, extract it, and put it in your world's datapack folder
 
 To join teams:\
-```/team join <playername> hunters\```
+```/team join <playername> hunters```\
 ```/team join <playername> runners```
 
 you can modify the start_game.mcfunction file to automatically join teams on start\
